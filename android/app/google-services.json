@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512328301715",
+    "project_id": "come-17488",
+    "storage_bucket": "come-17488.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512328301715:android:3d863fb6a468a5abaf6166",
+        "android_client_info": {
+          "package_name": "com.example.onboarding"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxN_6hEMNviBFw9e7qYS67ROegzEHoLCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
